@@ -2,7 +2,8 @@ This is a simple react-redux app where input value is stored into redux and prin
 
 Demo video is -
 
+https://user-images.githubusercontent.com/102738774/214871281-f5358d7a-f5b4-4a54-9956-8c1bbea447cf.mp4
 
 
-https://user-images.githubusercontent.com/102738774/214868600-6fa137af-dc5a-4306-8512-625bf3c2ff7a.mp4
+
 
